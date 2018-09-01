@@ -7,5 +7,11 @@ function theBeatlesPlay(musician, instruments){
   return newArray
 }
 function johnLennonFacts(array){
+  for (var i of array){
+    i = i+"!!!"
+  }
+  return array
+}
+function iLoveTheBeatles(n){
   
 }
