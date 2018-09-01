@@ -2,4 +2,5 @@
 function theBeatlesPlay(musician, instruments){
   newArray = []
   for()
+  return newArray
 }
