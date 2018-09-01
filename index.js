@@ -1,6 +1,8 @@
 // add solution here
 function theBeatlesPlay(musician, instruments){
   newArray = []
-  musician.
+  for (i in musician){
+    
+  }
   return newArray
 }
