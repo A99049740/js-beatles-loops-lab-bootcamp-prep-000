@@ -1,8 +1,11 @@
 // add solution here
 function theBeatlesPlay(musician, instruments){
   newArray = []
-  for (i of musician){
-    
+  for (let i =0;  i<newArray.length;i++){
+    newArray.push(`${musician[i]} plays ${instruments[i]}`)
   }
   return newArray
+}
+function johnLennonFacts(array){
+  
 }
